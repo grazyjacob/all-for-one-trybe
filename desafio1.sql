@@ -1,0 +1,1 @@
+SELECT nomes FROM nortwind.products;
